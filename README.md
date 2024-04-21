@@ -64,11 +64,12 @@ Once you have set up your Raspberry Pi, proceed with the installation and config
 ## Authors
 
 - Yanga Rubushe
+- Sibusiso Goodwell Skhosana
+- Azwile Magwaza
+- Liyema Heleba
 - Siyasanga Mzimasi
 - Sinoxolo Lomani
 - Renate Mofu
 - Zuhayr Adams
 - Funanani Tracy Mugagadeli
-- Azwile Magwaza
-- Sibusiso Goodwell Skhosana
 - Loyiso Arnold Mlangeni

@@ -65,7 +65,7 @@ Once you have set up your Raspberry Pi, proceed with the installation and config
 
 - Yanga Rubushe
 - Sibusiso Goodwell Skhosana
-- Azwile Magwaza (https://www.github.com/AzwileMagwaza/)
+- Azwile Magwaza 
 - Liyema Heleba
 - Siyasanga Mzimasi
 - Sinoxolo Lomani

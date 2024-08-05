@@ -73,3 +73,4 @@ Once you have set up your Raspberry Pi, proceed with the installation and config
 - Zuhayr Adams
 - Funanani Tracy Mugagadeli
 - Loyiso Arnold Mlangeni
+
